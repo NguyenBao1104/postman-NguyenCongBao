@@ -1,4 +1,4 @@
-#BÁO CÁO KIỂM THỬ API Tên Dự Án: Test Collection of APIs Ngày Kiểm Thử: 19/06/2025
+BÁO CÁO KIỂM THỬ API Tên Dự Án: Test Collection of APIs Ngày Kiểm Thử: 19/06/2025
 
 Người Kiểm Thử: Nguyễn Công Bảo
 
